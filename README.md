@@ -21,4 +21,4 @@ Plwease fork this repository. Issue pull request for review.
 
 ## Copyright
 
-Copyright 2021 Git Training
+Copyright 2021 Git Training. All rights reserved.
