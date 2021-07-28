@@ -16,6 +16,8 @@ This is deployment part of the introduction
 
 ## How To Contribute
 
+Plwease fork this repository. Issue pull request for review.
+
 ## Copyright
 
 Copyright 2021 Git Training
