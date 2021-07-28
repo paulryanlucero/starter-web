@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This is deployment part of the introduction
 
 ## How To Contribute
+
+## Copyright
+
+Copyright 2021 Git Training
